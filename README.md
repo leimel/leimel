@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leimel
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning neo4j and clojure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me https://www.linkedin.com/in/melisa-agudelo-57b11486/ 
 
 <!---
