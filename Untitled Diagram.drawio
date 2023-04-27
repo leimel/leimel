@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T21:01:56.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="aE36T8iShIgIYZoFeWjS" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-27T21:02:26.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="o8HLkEkOuqQ_-b9QpIQ1" version="21.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="GPUD Process Flow">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vV9LHFh5i9w6r_5rIdc7" name="Page-2">
+  <diagram id="vV9LHFh5i9w6r_5rIdc7" name="GPUD Sequence Diagram">
     <mxGraphModel dx="3064" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
